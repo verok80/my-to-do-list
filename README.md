@@ -1,7 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). In this app "MY TO DO LIST", user can quickly and easily add, delete and update tasks. This project  was created as one of my practice projects using class component. 
-  I appreciate  my teacher's (allacanshecode) contribution  to this project. 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). In this app "MY TO DO LIST", user can quickly and easily add, delete and update tasks. 
+
+This project  was created as one of my practice projects using class component. 
+
+I appreciate  my teacher's (allacanshecode) contribution  to this project. 
   
 
 ## Available Scripts
