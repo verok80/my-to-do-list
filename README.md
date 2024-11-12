@@ -1,5 +1,15 @@
 # Getting Started with Create React App
+RELAXATION APP
 
+Welcome to my project!!!
+
+This app was created using development tools: HTML, CSS, JavaScript, GSAP
+
+RELAXATION APP one of my pactice projects and I thank you my teacher (allacanshecode) for contribution.
+
+RELAXATION APP allows user to relax or meditate listening and watching rain, waterfall, fire and forest.
+
+I hope you enjoy and I open to any contributions (reporting bugs, suggestions and other)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). In this app "MY TO DO LIST", user can quickly and easily add, delete and update tasks. This project  was created as one of my practice projects using class component. 
   I appreciate  my teacher's (allacanshecode) contribution  to this project. 
   
